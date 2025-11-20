@@ -1,9 +1,18 @@
 # Hi I'm Tirtha 👋
 
-# 💫 About Me:
-I'm currently working on myself.
-I'm currently learning JavaScript.
-Ask me about Web Development.
+### <div align="center">I'm Tirtha, a full-time Web developer 👨‍💻 currently studying in Calcutta University 🚀</div>  
+  
+
+- 🔭 I’m currently working on [Github Profilinator](https://tirthaaa.github.io/DEVTIRTHA-PORTFOLIO/)  
+  
+
+- 🌱 I’m currently learning Java Script  
+  
+
+- ❓ Ask me about anything related to Web Development and related technologies  
+  
+
+- ⚡ Fun fact: I use tabs over spaces  
 
 
 
