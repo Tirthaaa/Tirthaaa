@@ -1,7 +1,12 @@
 # Hi I'm Tirtha 👋
 
 # 💫 About Me:
-Self
+I'm currently working on myself.
+I'm currently learning JavaScript.
+Ask me about Web Development.
+
+
+
 
 
 ## 🌐 Socials:
